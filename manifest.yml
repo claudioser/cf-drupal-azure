@@ -1,5 +1,5 @@
 applications:
-- name: cf-drupal-azure
+- name: drupal-azuregit
   memory: 512M
   instances: 1
   path: .
