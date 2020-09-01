@@ -1,5 +1,5 @@
 applications:
-- name: cf-drupal-azure1
+- name: cf-drupal-azure
   memory: 512M
   instances: 1
   path: .
